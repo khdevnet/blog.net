@@ -1,0 +1,10 @@
+{
+  "Id": 0,
+  "Slug": "my-entry-1",
+  "Title": "My entry 1",
+  "Author": "test123@gmail.com",
+  "DateCreated": "2016-01-29T00:00:00",
+  "Markdown": "ASP.NET Membership was designed to solve site membership requirements that were common in 2005, which involved Forms Authentication, and a SQL Server database for user names, passwords, and profile data. Today there is a much broader array of data storage options for web applications, and most developers want to enable their sites to use social identity providers for authentication and authorization functionality. The limitations of ASP.NET Membership's design make this transition difficult:\r\n\r\nThe database schema was designed for SQL Server and you can't change it. You can add profile information, but the additional data is packed into a different table, which makes it difficult to access by any means except through the Profile Provider API.\r\nThe provider system enables you to change the backing data store, but the system is designed around assumptions appropriate for a relational database. You can write a provider to store membership information in a non-relational storage mechanism, such as Azure Storage Tables, but then you have to work around the relational design by writing a lot of code and a lot of System.NotImplementedException exceptions for methods that don't apply to NoSQL databases.\r\nSince the log-in/log-out functionality is based on Forms Authentication, the membership system can't use OWIN. OWIN includes middleware components for authentication, including support for log-ins using external identity providers (like Microsoft Accounts, Facebook, Google, Twitter), and log-ins using organizational accounts from on-premises Active Directory or Azure Active Directory. OWIN also includes support for OAuth 2.0, JWT and CORS. 123",
+  "IsPublished": true,
+  "IsCodePrettified": true
+}

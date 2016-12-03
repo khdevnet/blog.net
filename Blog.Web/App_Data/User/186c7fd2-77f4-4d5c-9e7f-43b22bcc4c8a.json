@@ -1,0 +1,12 @@
+{
+  "Id": "186c7fd2-77f4-4d5c-9e7f-43b22bcc4c8a",
+  "UserName": "test123@gmail.com",
+  "FriendlyName": null,
+  "IsAuthenticated": false,
+  "IsAdmin": false,
+  "LockoutEnabled": true,
+  "AccessFailedCount": 0,
+  "LockoutEndDateUtc": null,
+  "PasswordHash": "AAjpuk6MMH2YmoAcl45a9aIo3Rxw/nhGPmKjaBIPQyxXOTnC3gUtSkZHjtXXdD6w/g==",
+  "TwoFactorEnabled": false
+}

@@ -1,0 +1,11 @@
+{
+  "Id": "05571b0a-346d-4020-bc37-29245fb0b4ed",
+  "UserName": "test@gmail.com",
+  "FriendlyName": null,
+  "IsAuthenticated": false,
+  "IsAdmin": false,
+  "LockoutEnabled": true,
+  "AccessFailedCount": 0,
+  "LockoutEndDateUtc": null,
+  "PasswordHash": "AB0h5YK5R549mI+OOr585Dn+e1CqRPq3uEtdzxEBWAqUn+8OM56msATC5aF4RAPeeg=="
+}
